@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Hello OpenCV.js</title>
+</head>
+<body>
+    <h2>Hello OpenCV.js</h2>
+    <a href="https://docs.opencv.org/3.4/d0/d84/tutorial_js_usage.html">Using OpenCV.js</a>
+    <!-- Image upload user-interface -->
+    <div class="inputoutput">
+        <img id="imageSrc" alt="No Image"/>
+        <div class="caption">imageSrc <input type="file" id="fileInput" name="file"/></div>
+    </div>
+    <!-- JavaScript -->
+    <!-- Example - synchronous loading -->
+    <script type="text/javascript" src="https://docs.opencv.org/3.4.15/opencv.js">
+
+        // Accessing HTML elements
+        let imgElement = document.querySelector("#imageSrc")  // <img>
+        let inputElement = document.querySelector("#fileInput")  // <input>
+        inputElement.addEventListener("change", e => imgElement.src = URL.createObjectURL(e.target.files[0]), false)
+
+        // Example - creating "cv.Mat" from image via "cv.imread()"
+        imgElement.onload = function(){
+            let mat = cv.imread(imgElement)
+        }
+        // ^^ Note: since image-loading is asynchronous, the function must be defined as an "onload" callback-method
+
+        // Example - displaying a "cv.Mat" object using a "canvas" element
+    </script>
+    <!-- Example - asynchronous loading -->
+    <script async src="https://docs.opencv.org/3.4.15/opencv.js" onload="onOpenCvReady" type="text/javascript"></script>
+
+</body>
+</html>
