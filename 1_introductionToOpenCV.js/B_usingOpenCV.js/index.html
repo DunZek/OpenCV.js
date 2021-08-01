@@ -7,15 +7,23 @@
 <body>
     <h2>Hello OpenCV.js</h2>
     <a href="https://docs.opencv.org/3.4/d0/d84/tutorial_js_usage.html">Using OpenCV.js</a>
+	<p id="status">OpenCV.js is loading...</p>
     <!-- Image upload user-interface -->
-    <div class="inputoutput">
-        <img id="imageSrc" alt="No Image"/>
-        <div class="caption">imageSrc <input type="file" id="fileInput" name="file"/></div>
-    </div>
+	<div>
+	    <div class="inputoutput">
+    	    <img id="imageSrc" alt="No Image"/>
+        	<div class="caption">imageSrc <input type="file" id="fileInput" name="file"/></div>
+	    </div>
+		<div class="inputoutput">
+			<canvas id="canvasOutput"></canvas>
+			<div class="caption">canvasOutput</div>
+		</div>
+	</div>
     <!-- JavaScript -->
     <!-- Example - synchronous loading -->
-    <script type="text/javascript" src="https://docs.opencv.org/3.4.15/opencv.js">
+    <!-- <script type="text/javascript" src="https://docs.opencv.org/3.4.15/opencv.js"> -->
 
+    <script type="text/javascript">
         // Accessing HTML elements
         let imgElement = document.querySelector("#imageSrc")  // <img>
         let inputElement = document.querySelector("#fileInput")  // <input>
@@ -24,13 +32,22 @@
         // Example - creating "cv.Mat" from image via "cv.imread()"
         imgElement.onload = function(){
             let mat = cv.imread(imgElement)
+			cv.imshow("canvasOutput", mat)
+			mat.delete()  // <- to free memory allocated to Emscripten's heap
+			console.log("Computed Mat object:", mat)
         }
         // ^^ Note: since image-loading is asynchronous, the function must be defined as an "onload" callback-method
 
+		function onOpenCvReady(){
+			document.querySelector("#status").innerHTML = "OpenCV is ready."
+		}
+
         // Example - displaying a "cv.Mat" object using a "canvas" element
     </script>
+	
     <!-- Example - asynchronous loading -->
-    <script async src="https://docs.opencv.org/3.4.15/opencv.js" onload="onOpenCvReady" type="text/javascript"></script>
+	<!-- <script async src="https://docs.opencv.org/3.4.15/opencv.js" onload="onOpenCvReady" type="text/javascript"></script> -->
+	<script type="text/javascript" async src="./opencv.js" onload="onOpenCvReady();"></script>
 
 </body>
 </html>

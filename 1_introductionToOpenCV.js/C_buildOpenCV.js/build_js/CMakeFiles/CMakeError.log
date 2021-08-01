@@ -1,0 +1,1051 @@
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -fsigned-char'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_437be.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_437be.dir\Release\\" /Fd"cmTC_437be.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -fsigned-char C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_437be.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_437be.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_437be.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-fsigned-char' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_437be.vcxproj]
+c1xx : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_437be.vcxproj]
+  src.cxx
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -fsigned-char'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_ba01e.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ba01e.dir\Release\\" /Fd"cmTC_ba01e.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -fsigned-char C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ba01e.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ba01e.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-fsigned-char' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ba01e.vcxproj]
+c1 : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ba01e.vcxproj]
+  src.c
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -W'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_72eb3.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_72eb3.dir\Release\\" /Fd"cmTC_72eb3.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -W C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/WC:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_72eb3.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -W'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_74a6e.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_74a6e.dir\Release\\" /Fd"cmTC_74a6e.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -W C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/WC:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_74a6e.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wall'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_ff4b1.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /Wall /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ff4b1.dir\Release\\" /Fd"cmTC_ff4b1.dir\Release\vc142.pdb" /external:W4 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ff4b1.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ff4b1.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ff4b1.vcxproj]
+c1xx : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ff4b1.vcxproj]
+  src.cxx
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wall'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_99cc3.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+c1 : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_99cc3.vcxproj]
+  cl /c /Wall /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_99cc3.dir\Release\\" /Fd"cmTC_99cc3.dir\Release\vc142.pdb" /external:W4 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_99cc3.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_99cc3.vcxproj]
+  src.c
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Werror=return-type'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_37b9b.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_37b9b.dir\Release\\" /Fd"cmTC_37b9b.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Werror=return-type C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Werror=return-type' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_37b9b.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Werror=return-type'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6969e.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6969e.dir\Release\\" /Fd"cmTC_6969e.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Werror=return-type C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Werror=return-type' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_6969e.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Werror=non-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_5c295.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5c295.dir\Release\\" /Fd"cmTC_5c295.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Werror=non-virtual-dtor C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Werror=non-virtual-dtor' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_5c295.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Werror=non-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_5c998.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5c998.dir\Release\\" /Fd"cmTC_5c998.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Werror=non-virtual-dtor C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Werror=non-virtual-dtor' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_5c998.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Werror=address'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_99308.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_99308.dir\Release\\" /Fd"cmTC_99308.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Werror=address C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Werror=address' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_99308.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Werror=address'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_52cc6.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_52cc6.dir\Release\\" /Fd"cmTC_52cc6.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Werror=address C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Werror=address' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_52cc6.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Werror=sequence-point'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_c48a1.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c48a1.dir\Release\\" /Fd"cmTC_c48a1.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Werror=sequence-point C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Werror=sequence-point' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_c48a1.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Werror=sequence-point'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_acfb5.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_acfb5.dir\Release\\" /Fd"cmTC_acfb5.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Werror=sequence-point C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Werror=sequence-point' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_acfb5.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wformat'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_83d04.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_83d04.dir\Release\\" /Fd"cmTC_83d04.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wformat C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wformat' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_83d04.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wformat'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_dac38.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dac38.dir\Release\\" /Fd"cmTC_dac38.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wformat C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wformat' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_dac38.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -Wformat -Werror=format-security'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b6050.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b6050.dir\Release\\" /Fd"cmTC_b6050.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wformat -Werror=format-security C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wformat' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_b6050.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -Wformat -Werror=format-security'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_626f7.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_626f7.dir\Release\\" /Fd"cmTC_626f7.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wformat -Werror=format-security C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wformat' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_626f7.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wmissing-declarations'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_07cb2.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_07cb2.dir\Release\\" /Fd"cmTC_07cb2.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wmissing-declarations C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wmissing-declarations' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_07cb2.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wmissing-declarations'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_2f584.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2f584.dir\Release\\" /Fd"cmTC_2f584.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wmissing-declarations C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wmissing-declarations' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_2f584.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wmissing-prototypes'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_da565.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_da565.dir\Release\\" /Fd"cmTC_da565.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wmissing-prototypes C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wmissing-prototypes' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_da565.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wmissing-prototypes'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6fb8a.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6fb8a.dir\Release\\" /Fd"cmTC_6fb8a.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wmissing-prototypes C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wmissing-prototypes' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_6fb8a.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wstrict-prototypes'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_7d179.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7d179.dir\Release\\" /Fd"cmTC_7d179.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wstrict-prototypes C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wstrict-prototypes' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_7d179.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wstrict-prototypes'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_60de7.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_60de7.dir\Release\\" /Fd"cmTC_60de7.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wstrict-prototypes C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wstrict-prototypes' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_60de7.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wundef'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_68da1.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_68da1.dir\Release\\" /Fd"cmTC_68da1.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wundef C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wundef' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_68da1.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wundef'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_101a5.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_101a5.dir\Release\\" /Fd"cmTC_101a5.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wundef C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wundef' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_101a5.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Winit-self'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_47cd1.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_47cd1.dir\Release\\" /Fd"cmTC_47cd1.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Winit-self C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Winit-self' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_47cd1.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Winit-self'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_e5d68.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e5d68.dir\Release\\" /Fd"cmTC_e5d68.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Winit-self C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Winit-self' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_e5d68.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wpointer-arith'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_47142.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_47142.dir\Release\\" /Fd"cmTC_47142.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wpointer-arith C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wpointer-arith' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_47142.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wpointer-arith'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_318ec.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_318ec.dir\Release\\" /Fd"cmTC_318ec.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wpointer-arith C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wpointer-arith' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_318ec.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wshadow'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_e38c9.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e38c9.dir\Release\\" /Fd"cmTC_e38c9.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wshadow C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wshadow' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_e38c9.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wshadow'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_7849c.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7849c.dir\Release\\" /Fd"cmTC_7849c.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wshadow C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wshadow' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_7849c.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wsign-promo'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_ca0b4.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ca0b4.dir\Release\\" /Fd"cmTC_ca0b4.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wsign-promo C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wsign-promo' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_ca0b4.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wsign-promo'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_0d212.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0d212.dir\Release\\" /Fd"cmTC_0d212.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wsign-promo C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wsign-promo' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_0d212.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wuninitialized'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_79194.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_79194.dir\Release\\" /Fd"cmTC_79194.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wuninitialized C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wuninitialized' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_79194.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wuninitialized'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_adc8e.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_adc8e.dir\Release\\" /Fd"cmTC_adc8e.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wuninitialized C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wuninitialized' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_adc8e.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Winconsistent-missing-override'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_26088.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_26088.dir\Release\\" /Fd"cmTC_26088.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Winconsistent-missing-override C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Winconsistent-missing-override' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_26088.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Winconsistent-missing-override'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_bcd6f.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bcd6f.dir\Release\\" /Fd"cmTC_bcd6f.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Winconsistent-missing-override C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Winconsistent-missing-override' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_bcd6f.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wno-delete-non-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_132da.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_132da.dir\Release\\" /Fd"cmTC_132da.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wno-delete-non-virtual-dtor C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wno-delete-non-virtual-dtor' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_132da.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-delete-non-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b3dfb.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b3dfb.dir\Release\\" /Fd"cmTC_b3dfb.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wno-delete-non-virtual-dtor C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wno-delete-non-virtual-dtor' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_b3dfb.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_46a5d.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_46a5d.dir\Release\\" /Fd"cmTC_46a5d.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wno-unnamed-type-template-args C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wno-unnamed-type-template-args' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_46a5d.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_897b9.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_897b9.dir\Release\\" /Fd"cmTC_897b9.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wno-unnamed-type-template-args C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wno-unnamed-type-template-args' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_897b9.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wno-comment'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_15a24.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_15a24.dir\Release\\" /Fd"cmTC_15a24.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wno-comment C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wno-comment' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_15a24.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-comment'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_cc3f5.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cc3f5.dir\Release\\" /Fd"cmTC_cc3f5.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wno-comment C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wno-comment' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_cc3f5.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wno-deprecated-enum-enum-conversion'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_990ff.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_990ff.dir\Release\\" /Fd"cmTC_990ff.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wno-deprecated-enum-enum-conversion C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wno-deprecated-enum-enum-conversion' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_990ff.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-deprecated-enum-enum-conversion'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_2fc82.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2fc82.dir\Release\\" /Fd"cmTC_2fc82.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wno-deprecated-enum-enum-conversion C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wno-deprecated-enum-enum-conversion' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_2fc82.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Wno-deprecated-anon-enum-enum-conversion'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_0db5e.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0db5e.dir\Release\\" /Fd"cmTC_0db5e.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Wno-deprecated-anon-enum-enum-conversion C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line error D8021: invalid numeric argument '/Wno-deprecated-anon-enum-enum-conversion' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_0db5e.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-deprecated-anon-enum-enum-conversion'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_0a713.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0a713.dir\Release\\" /Fd"cmTC_0a713.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Wno-deprecated-anon-enum-enum-conversion C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line error D8021: invalid numeric argument '/Wno-deprecated-anon-enum-enum-conversion' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_0a713.vcxproj]
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -fdiagnostics-show-option'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_6e0eb.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+c1xx : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_6e0eb.vcxproj]
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6e0eb.dir\Release\\" /Fd"cmTC_6e0eb.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -fdiagnostics-show-option C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_6e0eb.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_6e0eb.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_6e0eb.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-fdiagnostics-show-option' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_6e0eb.vcxproj]
+  src.cxx
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -fdiagnostics-show-option'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_1b65e.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1b65e.dir\Release\\" /Fd"cmTC_1b65e.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -fdiagnostics-show-option C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_1b65e.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_1b65e.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-fdiagnostics-show-option' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_1b65e.vcxproj]
+c1 : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_1b65e.vcxproj]
+  src.c
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -Qunused-arguments'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_78a6f.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_78a6f.dir\Release\\" /Fd"cmTC_78a6f.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -Qunused-arguments C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_78a6f.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_78a6f.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_78a6f.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-Qunused-arguments' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_78a6f.vcxproj]
+c1xx : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_78a6f.vcxproj]
+  src.cxx
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Qunused-arguments'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_59f36.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_59f36.dir\Release\\" /Fd"cmTC_59f36.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -Qunused-arguments C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_59f36.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_59f36.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-Qunused-arguments' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_59f36.vcxproj]
+c1 : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_59f36.vcxproj]
+  src.c
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -ffunction-sections'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_96293.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+c1xx : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_96293.vcxproj]
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_96293.dir\Release\\" /Fd"cmTC_96293.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -ffunction-sections C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_96293.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_96293.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_96293.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-ffunction-sections' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_96293.vcxproj]
+  src.cxx
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -ffunction-sections'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_10727.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_10727.dir\Release\\" /Fd"cmTC_10727.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -ffunction-sections C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_10727.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_10727.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-ffunction-sections' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_10727.vcxproj]
+c1 : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_10727.vcxproj]
+  src.c
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: '  -fdata-sections'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_c7d6b.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+c1xx : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_c7d6b.vcxproj]
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c7d6b.dir\Release\\" /Fd"cmTC_c7d6b.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 -fdata-sections C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_c7d6b.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_c7d6b.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_c7d6b.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-fdata-sections' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_c7d6b.vcxproj]
+  src.cxx
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -fdata-sections'
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_7d763.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7d763.dir\Release\\" /Fd"cmTC_7d763.dir\Release\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -s USE_PTHREADS=0 -O3 -fdata-sections C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.c
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_7d763.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_7d763.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-fdata-sections' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_7d763.vcxproj]
+c1 : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_7d763.vcxproj]
+  src.c
+  Generating Code...
+
+
+===== END =====
+
+Compilation failed:
+    source file: 'C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' '
+===== BUILD LOG =====
+Change Dir: C:/ComputerStuff/JavaScript/OpenCV.js/1_introductionToOpenCV.js/C_buildOpenCV.js/build_js/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9e9c9.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.10.2+857e5a733 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30040 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  USE_PTHREADS=0
+c1xx : fatal error C1083: Cannot open source file: 'USE_PTHREADS=0': No such file or directory [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_9e9c9.vcxproj]
+  src.cxx
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e9c9.dir\Release\\" /Fd"cmTC_9e9c9.dir\Release\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue  -s USE_PTHREADS=0 -O3 -std=c++11 C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\src.cxx
+cl : command line warning D9002: ignoring unknown option '-s' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_9e9c9.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-O3' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_9e9c9.vcxproj]
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\ComputerStuff\JavaScript\OpenCV.js\1_introductionToOpenCV.js\C_buildOpenCV.js\build_js\CMakeFiles\CMakeTmp\cmTC_9e9c9.vcxproj]
+  Generating Code...
+
+
+===== END =====
+

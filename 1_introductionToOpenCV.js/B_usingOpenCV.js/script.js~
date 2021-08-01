@@ -1,0 +1,16 @@
+require('./opencv.js')
+
+// Accessing HTML elements
+let imgElement = document.querySelector("#imageSrc")  // <img>
+let inputElement = document.querySelector("#fileInput")  // <cinput>
+//
+inputElement.addEventListener("change", e => imgElement.src = URL.createObjectURL(e.target.files[0]), false)
+
+// Example - creating "cv.Mat" from image via "cv.imread()"
+imgElement.onload = function(){
+	let mat = cv.imread(imgElement) 
+	console.log(mat)
+}
+// ^^ Note: since image-loading is asynchronous, the function must be defined as an "onload" callback-method
+
+// Example - displaying a "cv.Mat" object using a "canvas" element
